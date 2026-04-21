@@ -11,10 +11,17 @@
             "id": "83dad859757b8fb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "Холст.canvas",
+                "viewState": {
+                  "x": 23.5,
+                  "y": 0.5,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Холст"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Холст.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Холст"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Холст.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Холст"
             }
           },
           {
@@ -150,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Холст.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Холст"
             }
           }
         ]
@@ -178,6 +188,8 @@
   },
   "active": "83dad859757b8fb7",
   "lastOpenFiles": [
+    "Это тестовая заметка.md",
+    "Холст.canvas",
     "Добро пожаловать.md"
   ]
 }
