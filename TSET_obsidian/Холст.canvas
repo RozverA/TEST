@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"114fd9cecf3928e0","x":-180,"y":-292,"width":250,"height":60,"type":"text","text":"Это холст"},
-		{"id":"27378531943925be","x":-213,"y":-153,"width":250,"height":60,"type":"text","text":"Это элемент холста"},
-		{"id":"71bf599af5ed081b","x":-162,"y":119,"width":250,"height":60,"type":"text","text":"тест1"},
-		{"id":"7d8ac6a37e6fb768","x":10,"y":-25,"width":250,"height":60,"type":"text","text":"Тест2"},
-		{"id":"9d19099882ea0f2d","x":-100,"y":233,"width":250,"height":60,"type":"text","text":"Test 3"}
+		{"id":"114fd9cecf3928e0","type":"text","text":"Это холст","x":-180,"y":-292,"width":250,"height":60},
+		{"id":"27378531943925be","type":"text","text":"Это элемент холста","x":-213,"y":-153,"width":250,"height":60},
+		{"id":"71bf599af5ed081b","type":"text","text":"тест1 2","x":-162,"y":119,"width":250,"height":60},
+		{"id":"7d8ac6a37e6fb768","type":"text","text":"Тест2 3","x":10,"y":-25,"width":250,"height":60},
+		{"id":"9d19099882ea0f2d","type":"text","text":"Test 3","x":-100,"y":233,"width":250,"height":60}
 	],
 	"edges":[]
 }
